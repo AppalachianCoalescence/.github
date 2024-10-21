@@ -1,10 +1,10 @@
-This is a space to gather all LISA related projects pertaining to NASA Marshall and EMIT Institutions.
+This is a space to gather all LISA related projects pertaining to NASA Marshall and nearby universities.
 
 The main reason for creating this is to have a platform for all possible ideas and thus foresee possible contributions. 
 
 It should help students figure projects they could be interested in, based both on their expertise and own timeframes.
 
-As a centralized table of all LISA-related efforts, this will be useful for future grant writting.
+As a centralized table of all LISA-related efforts, this could be useful for future grant writting.
 
 **If you have a current project or are working on an idea, write it down! If you want to help with an idea, mark yourself as interested!**
 
