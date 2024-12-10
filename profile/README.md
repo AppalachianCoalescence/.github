@@ -8,6 +8,7 @@ As a centralized table of all LISA-related efforts, this could be useful for fut
 
 **If you have a current project or are working on an idea, write it down! If you want to help with an idea, mark yourself as interested!**
 
+We have a slack here (expires 1/10/25): https://join.slack.com/t/acme-gws/shared_invite/zt-2w2yiclpg-V~UQXneIke3eRCDQSbe0dA
 
 ## Contribution Guidelines:
 
