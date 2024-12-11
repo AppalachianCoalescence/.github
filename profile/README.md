@@ -1,3 +1,12 @@
+# Appalachian Coalescence
+
+## NEWS
+- The LISA Science Gaps have been released and are available [here](https://nspires.nasaprs.com/external/viewrepositorydocument/cmdocumentid=1038005/solicitationId=%7B05108FA8-5F27-3547-BBAF-0284D97BA62F%7D/viewSolicitationDocument=1/2024%20LPS%20Science%20Gaps.pdf).
+
+- As a reminder we will discuss [LISA Preparatory Science Proposals](https://nspires.nasaprs.com/external/solicitations/summary.do?solId=%7b05108FA8-5F27-3547-BBAF-0284D97BA62F%7d&path=&method=init) on December 16th at 2pm central! We will discuss proposals we plan to write and consolidate efforts.
+
+## About
+
 This is a space to gather all LISA related projects pertaining to NASA Marshall and nearby universities.
 
 The main reason for creating this is to have a platform for all possible ideas and thus foresee possible contributions. 
@@ -9,6 +18,7 @@ As a centralized table of all LISA-related efforts, this could be useful for fut
 **If you have a current project or are working on an idea, write it down! If you want to help with an idea, mark yourself as interested!**
 
 We have a slack here (expires 1/10/25): https://join.slack.com/t/acme-gws/shared_invite/zt-2w2yiclpg-V~UQXneIke3eRCDQSbe0dA
+
 
 ## Contribution Guidelines:
 
