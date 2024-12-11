@@ -5,6 +5,8 @@
 
 - As a reminder we will discuss [LISA Preparatory Science Proposals](https://nspires.nasaprs.com/external/solicitations/summary.do?solId=%7b05108FA8-5F27-3547-BBAF-0284D97BA62F%7d&path=&method=init) on December 16th at 2pm central! We will discuss proposals we plan to write and consolidate efforts.
 
+- If you are in Nashville and would like to visit NASA - Marshall and UAH on 1/27 please fill out the excel sheet in the slack (not posted here for privacy).
+
 ## About
 
 This is a space to gather all LISA related projects pertaining to NASA Marshall and nearby universities.
