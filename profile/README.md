@@ -3,9 +3,7 @@
 ## NEWS
 - The LISA Science Gaps have been released and are available [here](https://nspires.nasaprs.com/external/viewrepositorydocument/cmdocumentid=1038005/solicitationId=%7B05108FA8-5F27-3547-BBAF-0284D97BA62F%7D/viewSolicitationDocument=1/2024%20LPS%20Science%20Gaps.pdf).
 
-- As a reminder we will discuss [LISA Preparatory Science Proposals](https://nspires.nasaprs.com/external/solicitations/summary.do?solId=%7b05108FA8-5F27-3547-BBAF-0284D97BA62F%7d&path=&method=init) on December 16th at 2pm central! We will discuss proposals we plan to write and consolidate efforts.
-
-- If you are in Nashville and would like to visit NASA - Marshall and UAH on 1/27 please fill out the excel sheet in the slack (not posted here for privacy).
+- As a reminder our next face2face will be at Vanderbilt on March 24th. We will share submitted proposals, break into groups to figure next steps and/or start working on them.
 
 ## About
 
