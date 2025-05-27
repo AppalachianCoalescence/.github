@@ -3,8 +3,6 @@
 ## NEWS
 - The LISA Science Gaps have been released and are available [here](https://nspires.nasaprs.com/external/viewrepositorydocument/cmdocumentid=1038005/solicitationId=%7B05108FA8-5F27-3547-BBAF-0284D97BA62F%7D/viewSolicitationDocument=1/2024%20LPS%20Science%20Gaps.pdf).
 
-- As a reminder our next face2face will be at Vanderbilt on March 24th. We will share submitted proposals, break into groups to figure next steps and/or start working on them.
-
 ## About
 
 This is a space to gather all LISA related projects pertaining to NASA Marshall and nearby universities.
